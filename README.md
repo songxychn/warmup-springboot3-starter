@@ -16,7 +16,7 @@
 </dependency>
 ```
 
-这就是你需要做的全部事情。
+这就是你需要做的全部事情！
 
 ## 我们做了什么？
 
@@ -46,7 +46,9 @@ warmup:
 
 ## 鸣谢
 
-本项目的主要灵感来源于：https://github.com/shelltea/warmup-spring-boot-starter，我在其基础上对 springboot3 进行了适配，并增加了mybatis plus 和 jpa的预热功能。
+本项目的主要灵感来源于：https://github.com/shelltea/warmup-spring-boot-starter
+
+我在其基础上对 springboot3 进行了适配，并增加了mybatis plus 和 jpa的预热功能。
 
 
 
