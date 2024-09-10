@@ -6,7 +6,7 @@
 
     <groupId>com.baizhukui</groupId>
     <artifactId>warmup-springboot3-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>warmup-springboot3-starter</name>
