@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Setup Java
-        uses: actions/setup-java@v3 # Does also set up Maven and GPG
+        uses: actions/setup-java@v4 # Does also set up Maven and GPG
         with:
           distribution: 'temurin' # As good as any other, see: https://github.com/actions/setup-java#supported-distributions
           java-package: 'jdk'
